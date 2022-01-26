@@ -1,0 +1,31 @@
+    Preguntas de Entrevista
+    ¿Qué es una trama de datos de pandas?
+    Es una estructura de datos similar a una tabla que se utiliza para organizar y manipular datos.
+    
+    ¿Qué es una Series pandas?
+    Es un arreglo de una dimension que puede tener datos de distinto tipo.
+    
+    ¿Cómo harías una trama de datos vacía en Python?
+    pd.DataFrame()
+    
+    ¿Cómo encontrarías el número de valores únicos en una columna en pandas?
+    pd.unique(a), donde a puede ser cualquier arreglo unidimensional.
+    
+    ¿Cuáles son algunos de los beneficios de usar pandas?
+    - Manipulacion de datos eficiente.
+    - Estandar en la industria
+    
+    ¿Cómo agregarías una columna a una trama de datos de pandas?
+    Utilizando pandas.DataFrame.assign() o pandas.DataFrame.insert()
+    
+    ¿Cómo le cambiarías el nombre a una columna en una trama de datos de pandas?
+    Con la funcion rename y entregando un diccionario de clave = nombres antiguos de las columnas y valor = nombres nuevos.
+    
+    ¿Cómo convertirías una trama de datos de pandas en un conjunto NumPy?
+    Con la funcion to_numpy y entregandole un dataframe.
+    
+    ¿Cómo guardarías una trama de datos pandas en un archivo csv?
+    Con la funcion df.to_csv() y entregandole un directorio.
+    
+    Define Groupby en pandas.
+    Divide un dataframe y aplica una funcion en cada subdataframe.
