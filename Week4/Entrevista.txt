@@ -1,0 +1,20 @@
+    1. ¿Qué es una desviación típica?
+    
+    2. Dada una matriz de confusión, calcula la precisión.
+    
+    3. Dada una matriz de confusión, calcula la sensibilidad.
+    
+    4. ¿Cuál es la diferencia entre precisión y recall?
+    
+    5. ¿Cuál es la diferencia entre sensibilidad y especificidad?
+    
+    6. Qué es mejor, ¿falsos positivos o falsos negativos?
+    
+    7. ¿Qué es un valor p?
+    
+    8. ¿Qué es un intervalo de confianza?
+    
+    9. ¿Qué valor es el usado más comúnmente para determinar la significación estadística?
+    
+    10. ¿Qué es un error Tipo 2?
+    
