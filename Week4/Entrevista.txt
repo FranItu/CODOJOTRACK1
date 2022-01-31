@@ -1,20 +1,31 @@
     1. ¿Qué es una desviación típica?
+    Medidor de dispersion de datos
     
     2. Dada una matriz de confusión, calcula la precisión.
+    Precision = TP/(TP+FP)
     
     3. Dada una matriz de confusión, calcula la sensibilidad.
+    Sensibilidad = TP/(TP+FN)
     
     4. ¿Cuál es la diferencia entre precisión y recall?
+    recall: tasa de TP
+    precision: Tasa de positivos correctos
     
     5. ¿Cuál es la diferencia entre sensibilidad y especificidad?
+    sensibilidad: tasa de TP
+    especificidad: tasa de TN
     
     6. Qué es mejor, ¿falsos positivos o falsos negativos?
+    Dependiendo del caso, pero tener un mayor numero de falsos negativos puede representar un fallo en la estructura del proyecto
     
     7. ¿Qué es un valor p?
+    Valor estadistico que muestra la significancia de una muestra
     
     8. ¿Qué es un intervalo de confianza?
+    Intervalo en el cual una hipotesis podria ser cierta.
     
     9. ¿Qué valor es el usado más comúnmente para determinar la significación estadística?
+    El Error cuadratico
     
     10. ¿Qué es un error Tipo 2?
-    
+    Falso Negativo
