@@ -1,0 +1,39 @@
+    1. ¿Qué hace buena una visualización de datos?
+    
+    Buen espaciado, buen contraste, buena eleccion de tipo de gráfica
+    
+    2. ¿Por qué podrías querer usar visualización de datos?
+    
+    Para mostrar datos complejos de una manera compacta y digerible
+    
+    3. ¿Cuáles son algunos elementos básicos de un gráfico?
+    
+    Variables de Entrada, Ejes, títulos, tipo de gráfico
+    
+    4. ¿Cómo visualizarías la relación entre dos variables cuantitativas?
+    
+    Depndiendo lo que se quiera, se puede hacer un scatterplot o una regresion. 
+    
+    5. ¿Qué es un mapa de calor?
+    
+    El mapa de calor muestra la correlacion existente entre dos variables.
+    
+    6. Nombra distintos tipos de gráficos para visualizar datos.
+    
+    Pie, barras, histograma, mapa de calor, regresion, scatterplot
+    
+    7. ¿Con cuáles herramientas de visualización de datos te familiarizarías?
+    
+    RAWgraphs, Tableau, PowerBi, Matplotlib, seaborn, ggplot
+    
+    8. Nombra varias librerías de visualización de datos en Python.
+    
+    Matplotlib, seaborn
+    
+    9. Nombra varias herramientas de visualización de datos fuera de Python.
+    
+    RAWgraphs, Tableau, PowerBi, ggplot
+    
+    10. ¿Cuál es la diferencia entre un gráfico de líneas y un gráfico de dispersión?
+    
+    Grafico de dispersion muestra la distribucion de los datos, grafico de lineas muestra una coneccion secuencial de datos.
