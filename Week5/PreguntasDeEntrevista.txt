@@ -20,5 +20,11 @@
     Es el estudio de algoritmos de automejora que desarrollan experiencia en base a los datos de entrada y sirven para predecir resulatados.
     
     ¿Cuáles son algunas aplicaciones comunes del aprendizaje automático?
+    Categorizacion de datos y prediccion de modelos.
+    
     ¿Qué efecto tiene el aumento del número de vecinos en un modelo KNN en el sesgo y la varianza?
+    Aumenta el sesgo. Reduce la varianza.
+    
     Describa varias métricas para evaluar un modelo de regresión.
+    Error cuadratico medio: Error euclideano entre datos predichos y datos reales.
+    Error absoluto medio: Error Manhattan entre datos predichos y datos reales.
