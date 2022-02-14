@@ -1,1 +1,1 @@
-
+El sesgo es la distancia al valor objetivo, mientras que la varianza es una medida de distancia estadistica de los datos entre si; por lo tanto, ambas medidas afectan la medida de complejidad de un modelo.
