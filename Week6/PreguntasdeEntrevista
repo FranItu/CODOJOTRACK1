@@ -1,10 +1,31 @@
     ¿Cómo funcionan los árboles de decisión?
+     Como herramienta de clasificacion en base a condiciones de parametros.
+    
     ¿Cuál es la diferencia entre un árbol de decisiones y un bosque aleatorio?
+     Un arbol va aumentando la profundidad de las decisiones en base a la complejidad que decidas darle.
+     Un bosque aumenta esta complejidad en base a los arboles que quieras darle
+     
     ¿Qué es el bootstrapping?
+     Es un proceso de autoarranque
+    
     ¿Qué es el ensacado?
+     Es un conjunto que toma una decision agregada alrededor de una agrupacion de arboles
+    
     ¿Por qué un bosque aleatorio podría ser mejor que un árbol de decisiones?
+     Porque toma la muestra de entrenamiento en cada arbol y reduce el bias al tener poco enfoque en las ramas.
+     
     ¿Qué son los datos de entrenamiento y para qué se utilizan?
+     Los datos de entrenamiento son un subconjunto de la base de datos que se utilizan para contruir un modelo.
+    
     ¿Qué es un equipo de prueba y por qué usar uno?
+     Son los datos que se separan de la base de datos para validar el modelo contruido.
+     
     ¿Qué es la validación cruzada y por qué es útil?
+     Es la separacion de datos extraida aleatoriamente de una base de datos
+    
     ¿Cuáles son los principales hiperparámetros que puedes ajustar para árboles de decisión?
+     Numero de ramas. profundidad. criterio de division.
+    
     ¿Cuáles son algunas formas de reducir el sobreajuste con árboles de decisión?
+     Tomando una base de prueba mas grande o una de entrenamiento mas pequeña.
+    
