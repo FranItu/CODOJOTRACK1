@@ -3,27 +3,28 @@
     profundizar en el modelo que se esta trabajando.
     
     Nombra y explica brevemente varias métricas de evaluación que son útiles para problemas de clasificación.
-    
+    Accuracy, Sensibility y Specificity son metricas importantes que nos indican que tan cercano es nuestro modelo a lo que esperamos de la realidad.
     
     ¿Cuáles son dos formas comunes de automatizar el ajuste de hiperparámetros?
+    metodos internos del algoritmo, validacion cruzada.
     
-    
-    ¿Cuándo se debes trabajar sin regularización vs. Ridge vs. Lasso vs, Elastic Net?
-    
+    ¿Cuándo se debe trabajar sin regularización vs. Ridge vs. Lasso vs, Elastic Net?
+    Cuando el algoritmo tiene un alto sesgo y puede darte informacion exterior a lo que estas buscando.
     
     ¿Es la regresión logística un regresor o un clasificador?
-    
+    Un poco de ambos, pero matematicamente, se define como un regresor.
     
     ¿Qué parámetros se deben ajustar en los modelos de regresión logística? Explica cómo afectan el aprendizaje de modelos.
-    
+    Penalizacion, numero de iteraciones, punto de corte, entre otros.
     
     ¿Qué es la regularización? ¿Por qué lo usarías?
-    
+    Es una opcion de entrenamiento de un modelo de aprendizaje automático que evita el el sobreajuste.
     
     ¿Cómo funciona la regresión logística?
-    
+    Es una regresion que se ajusta a un modelo exponencial en vez de a uno lineal.
     
     ¿Cómo se crea la curva ROC?
-    
+    Con las predicciones y las probabilidades de estas, compaginadas con los resultados reales del modelo.
     
     ¿Cómo interpretarías un coeficiente de un modelo de regresión logística?
+    Como un parametro lineal de una funcion de ajuste logatimica 'log(y/(1+y))'
