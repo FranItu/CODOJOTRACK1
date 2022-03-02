@@ -1,1 +1,30 @@
-
+    Compara y contrasta dos algoritmos de agrupamiento diferentes. ¿Cuándo usarías uno frente al otro?
+    
+    
+    Explica la diferencia entre k-medias y agrupamiento jerárquico.
+    
+    
+    Explica brevemente cómo funciona el algoritmo de agrupamiento de k-medias.
+    
+    
+    ¿Cuál es un caso de uso común para la agrupación en clústeres de k-medias?
+    
+    
+    ¿Por qué es difícil identificar el número "ideal" de conglomerados en un conjunto de datos utilizando el agrupamiento de k-medias?
+    
+    
+    ¿Cuál es una heurística para seleccionar "k" para la agrupación de k-medias?
+    
+    
+    ¿Cuál es la diferencia entre el aprendizaje supervisado y no supervisado?
+    
+    
+    ¿Cuál es la diferencia entre k medias y k vecinos más próximos?
+    
+    
+    En un nivel de detalle técnico que te resulte más cómodo, describe cómo funciona DBSCAN y en qué casos lo elegirías en lugar de K-means.
+    
+    
+    Supón que estás tratando de agrupar tus observaciones en grupos. Sin embargo, tiene demasiadas funciones en tus datos. ¿Cómo decidirías cuáles usar en el modelo de agrupación en clústeres?
+    
+    
