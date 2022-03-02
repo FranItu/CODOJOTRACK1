@@ -1,1 +1,29 @@
-
+    ¿Cuál es la diferencia entre un parámetro de modelo y un hiperparámetro de aprendizaje?
+    El parametro de modelo es parte de la estructura general de lo que se va a utilizar para exponer al modelo. El hiperparametro son ajustes logicos y estructurales que permiten
+    profundizar en el modelo que se esta trabajando.
+    
+    Nombra y explica brevemente varias métricas de evaluación que son útiles para problemas de clasificación.
+    
+    
+    ¿Cuáles son dos formas comunes de automatizar el ajuste de hiperparámetros?
+    
+    
+    ¿Cuándo se debes trabajar sin regularización vs. Ridge vs. Lasso vs, Elastic Net?
+    
+    
+    ¿Es la regresión logística un regresor o un clasificador?
+    
+    
+    ¿Qué parámetros se deben ajustar en los modelos de regresión logística? Explica cómo afectan el aprendizaje de modelos.
+    
+    
+    ¿Qué es la regularización? ¿Por qué lo usarías?
+    
+    
+    ¿Cómo funciona la regresión logística?
+    
+    
+    ¿Cómo se crea la curva ROC?
+    
+    
+    ¿Cómo interpretarías un coeficiente de un modelo de regresión logística?
