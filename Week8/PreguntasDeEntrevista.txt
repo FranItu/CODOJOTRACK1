@@ -27,4 +27,4 @@
     
     Supón que estás tratando de agrupar tus observaciones en grupos. Sin embargo, tiene demasiadas funciones en tus datos. ¿Cómo decidirías cuáles usar en el modelo de agrupación en clústeres?
     
-    
+     
