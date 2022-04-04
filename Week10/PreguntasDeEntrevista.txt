@@ -1,0 +1,31 @@
+    ¿Qué es boosting?
+    
+    
+    ¿Cuál es la diferencia entre bagging(ensacado) y boosting(impulso)?
+    
+    
+    ¿Cómo difiere la potenciación del gradiente de algoritmos de árboles de decisiones tradicionales?
+    
+    
+    ¿Qué hiperparámetros pueden calibrarse en potenciación del gradiente, además de cada hiperparámetro individual de los árboles?
+    
+    
+    ¿Cómo puedes reducir el sobreajuste al potenciar la gradiente?
+    
+    
+    ¿Por qué múltiples árboles débiles al azar podrían ser mejor que un solo árbol largo? 
+    
+    
+    ¿Qué es potenciación del gradiente?
+    
+    
+    ¿Qué es stacking?
+    
+    
+    ¿Cuáles son los pros y contras del bagging?
+    
+    
+   
+    ¿Cuáles son los pros y contras del boosting?
+    
+    
