@@ -1,0 +1,30 @@
+    ¿Cuándo usarías una red neuronal recurrente?
+    
+    
+    ¿Cómo funciona una red neuronal recurrente?
+    
+    
+    ¿Qué hiperparámetros están disponibles en LSTM?
+    
+    
+    Explica a un compañero de trabajo no técnico qué son las redes neuronales.
+    
+    
+    Imagina que utilizas una red neuronal para clasificar imágenes, pero tu conjunto de datos es muy pequeño. Necesitas agregar datos adicionales para construir un modelo bueno, pero no tienes acceso a otras imágenes. ¿Qué harías?
+    
+    
+    ¿Cómo funciona la propagación hacia atrás?
+    
+    
+    ¿Con qué tipos de redes neuronales has trabajado? 
+    
+    
+    ¿Qué tipos de conjuntos de datos son mejores para las redes neuronales?
+    
+    
+    ¿Por qué las RNC son buenas para los datos de imágenes?
+    
+    
+    ¿Cuáles son las desventajas del aumento de datos?
+    
+    
