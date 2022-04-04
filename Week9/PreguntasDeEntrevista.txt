@@ -1,0 +1,30 @@
+    ¿Por qué querrías usar técnicas de reducción de dimensionalidad para transformar tus datos antes de entrenarlos?
+    
+    
+    ¿Por qué querrías evitar técnicas de reducción de dimensionalidad para transformar tus datos antes de entrenarlos?
+    
+    
+    Nombra un algoritmo popular de reducción de dimensionalidad y descríbelo de forma breve.
+    
+    
+    Después de reducir la dimensionalidad, ¿puedes transformar los datos al espacio de características original? ¿Cómo?
+    
+    
+    ¿Cómo seleccionas el número de componentes principales necesarios para el ACP? 
+    
+    
+    ¿Cuándo usarías el ACP?   
+    
+    
+    ¿Por qué llevarías a cabo el ACP incluso sin tener una gran cantidad de características?
+    
+    
+    ¿En qué casos NO llevarías a cabo un ACP?  
+    
+    
+    ¿Cuál es la interpretación geométrica de un vector propio y un valor propio?
+    
+    
+    ¿Cuál es la interpretación algebraica de un vector propio y un valor propio?
+    
+    
