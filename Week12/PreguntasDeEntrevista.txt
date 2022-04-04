@@ -1,0 +1,36 @@
+    Describe los diferentes tipos de uniones SQL.
+    
+    
+    ¿Cuál es la diferencia entre WHERE y HAVING en una consulta SQL?
+    
+    
+    ¿Qué es DBMS?
+    
+    
+    ¿Qué es RDBMS?
+    
+    
+    ¿Qué es una clave primaria?
+    
+    
+    ¿Qué es una clave foránea?
+    
+    
+    ¿Cuál es la diferencia entre SQL y PostgreSQL?
+    
+    
+    Dada  una tabla con columnas “a”, “b”, “c” y “d”, escribe una consulta que seleccione el promedio de la columna “b”, mayor que un número dado n.
+    
+    
+    Dada una tabla con columnas “a”, “b”, “c” y “d”, escribe una consulta que seleccione todas las columnas y las ordene como columna “a”, de mayor valor a menor valor.
+    
+    
+    ¿Qué devuelve esta consulta?:  
+    ''''''
+    SELECT e.Apellido, o.NombreProducto
+    FROM ordena o
+    UNION INTERNA empleados e ON o.id_empleado = e.id
+    WHERE Apellido LIKE ‘B%’ 
+    ''''''
+    
+    
